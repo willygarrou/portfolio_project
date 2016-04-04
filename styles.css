@@ -28,7 +28,7 @@ a:hover {
 	background: black;
 	min-height: 30px;
 	padding: 10px;
-	position: fixed;
+	position: absolute;
 	text-align: center;
 }
 .nav {
@@ -85,7 +85,7 @@ header .profile-image:hover {
 	margin: 10px auto;
 } 
 .location {
-	color: #2C3C56;
+	color: #FFF;
 }
 .card {
   margin: 30px;
